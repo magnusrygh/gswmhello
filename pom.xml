@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>no.vps.gswmbook</groupId>
-    <artifactId>gswmhello	</artifactId>
+    <artifactId>gswmhello</artifactId>
     <packaging>jar</packaging>
     <version>2.0.2-SNAPSHOT</version>
 
@@ -86,8 +86,8 @@
         </snapshotRepository>
     </distributionManagement>
     <scm>
-        <connection>scm:svn:file:///Users/vsasmry/mavstuff/gswmhello</connection>
-        <developerConnection>scm:svn:file:///Users/vsasmry/mavstuff/gswmhello</developerConnection>
-        <url>file:///Users/vsasmry/mavstuff/gswmhello</url>
+        <connection>scm:git:file:///Users/vsasmry/mavstuff/gswmhello/tags/gswmhello-2.0.2</connection>
+        <developerConnection>scm:git:file:///Users/vsasmry/mavstuff/gswmhello/tags/gswmhello-2.0.2</developerConnection>
+        <url>file:///Users/vsasmry/mavstuff/gswmhello/tags/gswmhello-2.0.2</url>
     </scm>
 </project>
