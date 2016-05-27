@@ -86,8 +86,9 @@
         </snapshotRepository>
     </distributionManagement>
     <scm>
-        <connection>scm:git:file:///Users/vsasmry/mavstuff/gswmhello/tags/gswmhello-2.0.2</connection>
-        <developerConnection>scm:git:file:///Users/vsasmry/mavstuff/gswmhello/tags/gswmhello-2.0.2</developerConnection>
-        <url>file:///Users/vsasmry/mavstuff/gswmhello/tags/gswmhello-2.0.2</url>
-    </scm>
+        <connection>scm:git:file:///Users/vsasmry/mavstuff/gswmhello</connection>
+        <developerConnection>scm:git:file:///Users/vsasmry/mavstuff/gswmhello</developerConnection>
+        <url>file:///Users/vsasmry/mavstuff/gswmhello</url>
+      <tag>gswmhello-2.0.2</tag>
+  </scm>
 </project>
