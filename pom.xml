@@ -4,7 +4,7 @@
     <groupId>no.vps.gswmbook</groupId>
     <artifactId>gswmhello</artifactId>
     <packaging>jar</packaging>
-    <version>2.0.4-SNAPSHOT</version>
+    <version>2.0.6-SNAPSHOT</version>
 
     <name>Getting started</name>
     <url>http://aftenposten.no</url>
@@ -86,9 +86,9 @@
         </snapshotRepository>
     </distributionManagement>
     <scm>
-        <connection>scm:git:file:///Users/vsasmry/mavstuff/gswmhello</connection>
-        <developerConnection>scm:git:file:///Users/vsasmry/mavstuff/gswmhello</developerConnection>
-        <url>file:///Users/vsasmry/mavstuff/gswmhello</url>
+        <connection>scm:git:file://{project.basedir}</connection>
+        <developerConnection>scm:git:file://${project.basedir}</developerConnection>
+        <url>file://${project.basedir}</url>
       <tag>gswmhello-2.0.2</tag>
   </scm>
 </project>
